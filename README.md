@@ -20,6 +20,7 @@
 
 ### JavaScript
 * [JavaScript: General](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Javascript)
+* [Recommended JavaScript dependencies](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Recommended-JavaScript-Dependencies)
 * [React](https://github.com/nimbletank/nimbletank-coding-standards/wiki/React)
 * [React components](https://github.com/nimbletank/nimbletank-coding-standards/wiki/React-Components)
 
