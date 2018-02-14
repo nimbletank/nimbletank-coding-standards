@@ -14,6 +14,7 @@
 * [.dotfiles](https://github.com/nimbletank/nimbletank-coding-standards/wiki/dotfiles)
 * [Code Sandboxes](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Code-sandboxes)
 * [Code formatting/linting](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Code-formatting---Linting)
+* [SEO](https://github.com/nimbletank/nimbletank-coding-standards/wiki/SEO)
 
 ## Front-end
 * [CSS](https://github.com/nimbletank/nimbletank-coding-standards/wiki/CSS)
