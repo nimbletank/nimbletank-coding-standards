@@ -17,6 +17,7 @@
 * [SEO](https://github.com/nimbletank/nimbletank-coding-standards/wiki/SEO)
 * [General resources](https://github.com/nimbletank/nimbletank-coding-standards/wiki/General-resources)
 * [API development](https://github.com/nimbletank/nimbletank-coding-standards/wiki/API-development)
+* [Publishing to npm](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Publishing-to-NPM)
 
 ## Front-end
 * [CSS](https://github.com/nimbletank/nimbletank-coding-standards/wiki/CSS)
