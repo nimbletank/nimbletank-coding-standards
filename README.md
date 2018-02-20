@@ -2,7 +2,6 @@
 
 > [Go to the wiki](https://github.com/nimbletank/nimbletank-coding-standards/wiki)
 
-# Nimbletank coding standards
 > Standards and guidelines for development at [Nimbletank](https://nimbletank.com)
 
 ## General
