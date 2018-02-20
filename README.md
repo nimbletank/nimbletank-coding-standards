@@ -2,36 +2,48 @@
 
 > [Go to the wiki](https://github.com/nimbletank/nimbletank-coding-standards/wiki)
 
+# Nimbletank coding standards
 > Standards and guidelines for development at [Nimbletank](https://nimbletank.com)
 
 ## General
 * [General coding practices](https://github.com/nimbletank/nimbletank-coding-standards/wiki/General-coding-practices)
 * [Git flow and code reviews](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Git-flow-and-code-reviews)
-* [Accessibility (A11y)](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Accessibility-(a11y))
-* [Performance](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Performance)
 * [Tooling](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Tooling)
-* [Continuous Integration](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Continuous-Integration)
 * [.dotfiles](https://github.com/nimbletank/nimbletank-coding-standards/wiki/dotfiles)
-* [Code Sandboxes](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Code-sandboxes)
 * [Code formatting/linting](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Code-formatting---Linting)
-* [SEO](https://github.com/nimbletank/nimbletank-coding-standards/wiki/SEO)
 * [General resources](https://github.com/nimbletank/nimbletank-coding-standards/wiki/General-resources)
 * [API development](https://github.com/nimbletank/nimbletank-coding-standards/wiki/API-development)
 * [Publishing to npm](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Publishing-to-NPM)
 
-## Front-end
+## Web
+### General
 * [CSS](https://github.com/nimbletank/nimbletank-coding-standards/wiki/CSS)
 * [CSS-in-JS](https://github.com/nimbletank/nimbletank-coding-standards/wiki/CSS-in-JS)
 * [HTML](https://github.com/nimbletank/nimbletank-coding-standards/wiki/HTML)
+* [Performance](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Performance)
+* [Accessibility (A11y)](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Accessibility-(a11y))
+* [SEO](https://github.com/nimbletank/nimbletank-coding-standards/wiki/SEO)
+* [Code Sandboxes](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Code-sandboxes)
 
 ### JavaScript
 * [JavaScript: General](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Javascript)
 * [Recommended JavaScript dependencies](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Recommended-JavaScript-Dependencies)
 * [React](https://github.com/nimbletank/nimbletank-coding-standards/wiki/React)
 * [React components](https://github.com/nimbletank/nimbletank-coding-standards/wiki/React-Components)
+* [React Native](https://github.com/nimbletank/nimbletank-coding-standards/wiki/React-Native)
 
-### Testing
+## Continuous Integration
+* [CircleCI](https://github.com/nimbletank/nimbletank-coding-standards/wiki/CircleCI)
+* [Bitrise](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Bitrise)
+
+## Testing
 * [JavaScript unit testing](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Javascript-unit-testing)
 * [End-to-end testing with Cypress](https://github.com/nimbletank/nimbletank-coding-standards/wiki/End-to-end-testing-with-Cypress.io)
+
+## iOS
+TBC
+
+## Android
+TBC
   
 Please find all the documentation at the [wiki](https://github.com/tmwagency/TMW-coding-standards/wiki)
