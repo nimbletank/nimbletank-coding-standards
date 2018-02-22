@@ -13,6 +13,7 @@
 * [General resources](https://github.com/nimbletank/nimbletank-coding-standards/wiki/General-resources)
 * [API development](https://github.com/nimbletank/nimbletank-coding-standards/wiki/API-development)
 * [Publishing to npm](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Publishing-to-NPM)
+* [Hygiene items](https://github.com/nimbletank/nimbletank-coding-standards/wiki/Hygiene-items)
 
 ## Web
 ### General
